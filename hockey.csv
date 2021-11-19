@@ -1,0 +1,97 @@
+﻿ID,Equipo,País,Nombre,Apellido,Peso,Ciudad,Provincia,Posición,Edad,HeightFt,BMI
+1,Women,Canada,Meghan,Agosta,148,Ruthven,Ont.,Forward,34,5.58,23
+2,Women,Canada,Rebecca,Johnston,148,Sudbury,Ont.,Forward,32,5.75,22
+3,Women,Canada,Laura,Stacey,156,Kleinburg,Ont.,Forward,27,5.83,22
+4,Women,Canada,Jennifer,Wakefield,172,Pickering,Ont.,Forward,32,5.83,25
+5,Women,Canada,Jillian,Saulnier,144,Halifax,N.S.,Forward,29,5.42,24
+6,Women,Canada,Mélodie,Daoust,159,Valleyfield,Que.,Forward,29,5.5,26
+7,Women,Canada,Bailey,Bram,150,St. Anne,Man.,Forward,31,5.67,23
+8,Women,Canada,Brianne,Jenner,156,Oakville,Ont.,Forward,30,5.75,23
+9,Women,Canada,Sarah,Nurse,140,Hamilton,Ont.,Forward,26,5.67,21
+10,Women,Canada,Haley,Irwin,170,Thunder Bay,Ont.,Forward,33,5.58,27
+11,Women,Canada,Natalie,Spooner,180,Scarborough,Ont.,Forward,31,5.83,26
+12,Women,Canada,Emily,Clark,130,Saskatoon,Sask.,Forward,25,5.58,20
+13,Women,Canada,Marie-Philip,Poulin,160,Beauceville,Que.,Forward,30,5.58,25
+14,Women,Canada,Blayre,Turnbull,155,Stellarton,N.S.,Forward,28,5.58,24
+15,Women,Canada,Jocelyne,Larocque,139,Ste. Anne,Man.,Defence,33,5.5,22
+16,Women,Canada,Brigette,Lacquette,180,Mallard,Man.,Defence,29,5.5,29
+17,Women,Canada,Lauriane,Rougeau,167,Beaconsfield,Que.,Defence,31,5.67,25
+18,Women,Canada,Laura,Fortino,137,Hamilton,Ont.,Defence,30,5.33,24
+19,Women,Canada,Meaghan,Mikkelson,139,St. Albert,Alta.,Defence,36,5.75,21
+20,Women,Canada,Renata,Fast,144,Burlington,Ont.,Defence,27,5.5,23
+21,Women,Canada,Shannon,Szabados,146,Edmonton,Alta.,Goalie,35,5.67,22
+22,Women,Canada,Geneviève,Lacasse,136,Kingston,Ont.,Goalie,32,5.67,21
+23,Women,Canada,Ann-Renée,Desbiens,160,La Malbaie,Que.,Goalie,27,5.75,24
+24,Men,Canada,Gilbert,Brulé,190,Vancouver,B.C.,Forward,34,5.92,26
+25,Men,Canada,Wojtek,Wolski,220,Toronto,Ont.,Forward,35,6.25,27
+26,Men,Canada,Derek,Roy,187,Rockland,Ont.,Forward,38,5.75,28
+27,Men,Canada,Chris,Kelly,194,Toronto,Ont.,Forward,41,6,26
+28,Men,Canada,Rob,Klinkhammer,214,Lethbridge,Alta.,Forward,35,6.25,27
+29,Men,Canada,Brandon,Kozun,170,Calgary,Alta.,Forward,31,5.67,26
+30,Men,Canada,Quinton,Howden,190,Oakbank,Man.,Forward,29,6.17,24
+31,Men,Canada,René,Bourque,216,Lac La Biche,Alta.,Forward,39,6.17,28
+32,Men,Canada,Andrew,Ebbett,176,Vernon,B.C.,Forward,38,5.75,26
+33,Men,Canada,Mason,Raymond,179,Cochrane,Alta.,Forward,36,6.08,24
+34,Men,Canada,Eric,O’Dell,201,Ottawa,Ont.,Forward,31,6.08,27
+35,Men,Canada,Maxim,Lapierre,216,Brossard,Que.,Forward,36,6,29
+36,Men,Canada,Linden,Vey,190,Wakaw,Sask.,Forward,30,6,26
+37,Men,Canada,Christian,Thomas,174,Toronto,Ont.,Forward,29,5.75,26
+38,Men,Canada,Karl,Stollery,181,Camrose,Alta.,Defence,33,5.92,25
+39,Men,Canada,Chris,Lee,187,MacTier,Ont.,Defence,41,6,25
+40,Men,Canada,Chay,Genoway,170,Morden,Man.,Defence,34,5.75,25
+41,Men,Canada,Marc-Andre,Gragnani,205,L’Île-Bizard,Que.,Defence,34,6.25,26
+42,Men,Canada,Stefan,Elliott,190,Vancouver,B.C.,Defence,30,6.08,25
+43,Men,Canada,Cody,Goloubef,200,Oakville,Ont.,Defence,31,6.08,26
+44,Men,Canada,Mat,Robinson,185,Calgary,Alta.,Defence,35,5.83,27
+45,Men,Canada,Maxim,Noreau,198,Montreal,Que.,Defence,34,6,27
+46,Men,Canada,Ben,Scrivens,181,Spruce Grove,Alta.,Goalie,35,6.17,23
+47,Men,Canada,Kevin,Poulin,205,Montreal,Que.,Goalie,31,6.17,26
+48,Men,Canada,Justin,Peters,210,Blyth,Ont.,Goalie,35,6.08,28
+49,Women,USA,Cayla,Barnes,145,Eastvale,Calif.,Defence,22,5.08,27
+50,Women,USA,Kacey,Bellamy,145,Westfield,Mass.,Defence,34,5.58,23
+51,Women,USA,Hannah,Brandt,150,Vadnais Heights,Minn.,Forward,27,5.5,24
+52,Women,USA,Dani,Cameranesi,148,Plymouth,Minn.,Forward,26,5.42,25
+53,Women,USA,Kendall,Coyne,123,Palos Heights,Ill.,Forward,29,5.17,22
+54,Women,USA,Brianna,Decker,150,Dousman,Wis.,Forward,30,5.33,26
+55,Women,USA,Meghan,Duggan,164,Danvers,Mass.,Forward,34,5.83,24
+56,Women,USA,Kali,Flanagan,142,Burlington,Mass.,Defence,26,5.33,24
+57,Women,USA,Nicole,Hensley,155,Lakewood,Colo.,Goalie,27,5.58,24
+58,Women,USA,Megan,Keller,160,Farmington,Mich.,Defence,25,5.92,22
+59,Women,USA,Amanda,Kessel,136,Madison,Wis.,Forward,30,5.42,23
+60,Women,USA,Hilary,Knight,175,Sun Valley,Idaho,Forward,32,5.92,24
+61,Women,USA,Jocelyne,Lamoureux-Davidson,150,Grand Forks,N.D.,Forward,32,5.5,24
+62,Women,USA,Monique,Lamoureux-Morando,147,Grand Forks,N.D.,Forward,32,5.5,24
+63,Women,USA,Gigi,Marvin,159,Warroad,Minn.,Forward,34,5.67,24
+64,Women,USA,Sidney,Morin,140,Minnetonka,Minn.,Defence,26,5.42,23
+65,Women,USA,Kelly,Pannek,165,Plymouth,Minn.,Forward,25,5.67,25
+66,Women,USA,Amanda,Pelkey,135,Montpelier,Vt.,Forward,28,5.25,24
+67,Women,USA,Emily,Pfalzer,125,Buffalo,N.Y.,Defence,28,5.25,22
+68,Women,USA,Alex,Rigsby,150,Delafield,Wis.,Goalie,29,5.58,23
+69,Women,USA,Maddie,Rooney,145,Andover,Minn.,Goalie,24,5.42,24
+70,Women,USA,Haley,Skarupa,140,Rockville,Md.,Forward,27,5.5,23
+71,Women,USA,Lee,Stecklein,175,Roseville,Minn.,Defence,27,6,24
+72,Men,USA,Mark,Arcobello,170,Milford,Conn.,Forward,33,5.67,26
+73,Men,USA,Chad,Billins,185,Marysville,Mich.,Defence,32,5.83,27
+74,Men,USA,Jonathan,Blum,195,Ladera Ranch,Calif.,Defence,32,6.08,26
+75,Men,USA,Will,Borgen,195,Moorhead,Minn.,Defence,24,6.17,25
+76,Men,USA,Chris,Bourque,180,North Reading,Mass.,Forward,35,5.67,27
+77,Men,USA,Bobby,Butler,189,Marlborough,Mass.,Forward,34,6,26
+78,Men,USA,Ryan,Donato,196,Scituate,Mass.,Forward,25,6.08,26
+79,Men,USA,Matt,Gilroy,200,Bellmore,N.Y.,Defence,37,6.08,26
+80,Men,USA,Brian,Gionta,175,Rochester,N.Y.,Forward,42,5.58,27
+81,Men,USA,Jordan,Greenway,235,Canton,N.Y.,Forward,24,6.42,28
+82,Men,USA,Ryan,Gunderson,170,Bensalem,Pa.,Defence,36,5.75,25
+83,Men,USA,Chad,Kolarik,185,Abington,Pa.,Forward,35,5.92,26
+84,Men,USA,David,Leggio,185,Buffalo,N.Y.,Goalie,37,6,25
+85,Men,USA,Broc,Little,170,Rindge,N.H.,Forward,33,5.75,25
+86,Men,USA,Brandon,Maxwell,196,Winter Park,Fla.,Goalie,30,6.08,26
+87,Men,USA,John,McCarthy,195,Boston,Mass.,Forward,35,6.08,26
+88,Men,USA,Brian,O'Neill,174,Yardley,Pa.,Forward,33,5.75,26
+89,Men,USA,Garrett,Roe,178,Vienna,Va.,Forward,33,5.75,26
+90,Men,USA,Bobby,Sanguinetti,190,Wilmington,N.C.,Defence,33,6.17,24
+91,Men,USA,Jim,Slater,200,Lapeer,Mich.,Forward,38,6,27
+92,Men,USA,Ryan,Stoa,210,Bloomington,Minn.,Forward,34,6.25,26
+93,Men,USA,Troy,Terry,179,Highlands Ranch,Colo.,Forward,24,6,24
+94,Men,USA,Noah,Welch,215,Brighton,Mass.,Defence,39,6.33,26
+95,Men,USA,James,Wisniewski,205,Canton,Mich.,Defence,37,6,28
+96,Men,USA,Ryan,Zapolski,203,Erie,Pa.,Goalie,35,6,28
